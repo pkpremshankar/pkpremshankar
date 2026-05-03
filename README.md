@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+I'm+Premshankar+Kumar;Web+Developer+%7C+UI%2FUX+Designer;React+%7C+Node.js+%7C+Creative+Coding;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+I'm+Premshankar+Sharma;Web+Developer+%7C+UI%2FUX+Designer;React+%7C+Node.js+%7C+Creative+Coding;Building+Modern+Web+Experiences" />
 </p>
 
 ---
