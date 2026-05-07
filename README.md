@@ -6,8 +6,8 @@
 ---
 
 # 💫 About Me
-Mechanical Engineering Student (BPMCE) | Web Developer | UI/UX Designer  
-Focused on building modern, responsive web applications and interactive designs.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&duration=2580&pause=71&color=82F7B4FF&vCenter=true&multiline=true&width=501&height=70&lines=Mechanical+Engineering+Student+(BPMCE)+;Web+Developer+%2B+UI%2FUX+Designer+%2B+Focused+on+building+modern%2C;Responsive+web+applications+and+interactive+designs.)](https://git.io/typing-svg)
 
 ---
 
