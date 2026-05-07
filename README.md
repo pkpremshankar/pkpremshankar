@@ -69,6 +69,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pkpremshankar&theme=tokyonight" />
+</p>
+
+---
 
 ### 🌐 Portfolio Website *(Coming Soon)*
 Modern developer portfolio showcasing projects and skills.
@@ -77,23 +83,6 @@ Modern developer portfolio showcasing projects and skills.
 
 ### 📰 News Website (AnyTopic)
 Dynamic news layout inspired by News18 UI.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkpremshankar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkpremshankar&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 Contribution Graph in the last year
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 # 👀 Daily Profile Views
