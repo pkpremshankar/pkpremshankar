@@ -82,16 +82,15 @@ Dynamic news layout inspired by News18 UI.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkpremshankar&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=pkpremshankar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkpremshankar&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
-# 👀 Profile Views
+# 🔥 Contribution Graph in the last year
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+# 👀 Daily Profile Views
 ![](https://komarev.com/ghpvc/?username=pkpremshankar&color=blue)
